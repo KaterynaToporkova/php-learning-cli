@@ -12,11 +12,6 @@ $requestParams = getRequestParams($argv);
 
 
 
-//взяти всю инфу юзеров getUsers .. по номерам потом foreach
-
-
-
-#####################################
 $info = getUser($requestParams["email"]);
 
 if ($info == true) {
