@@ -27,7 +27,6 @@ if (!$foo) {
 
 
 
-
 $user = getUser($requestParams["email"]);
 if ($user) {
     $name = $user["name"];
