@@ -15,7 +15,7 @@ if ($requestParams["email"] === null) {
     writeline("Ви не ввели емейл, спробуйте ще раз");
     exit();
 }
-if ($requestParams["balance"] == null) {
+if ($requestParams["balance"] === null) {
     writeline("Ви не ввели баланс, спробуйте ще раз");
     exit();
 }
