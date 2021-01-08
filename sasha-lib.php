@@ -139,11 +139,6 @@ function updateUser(array $user): bool
     return $updated;
 }
 
-function updateUserPoTupomu(string $email, string $name, int $balance)
-{
-    updateUser(['email' => $email, 'name' => $name, 'balance' => $balance]);
-}
-
 function deleteUserByEmail(string $email): void
 {
     $userModel = getUser($email);
