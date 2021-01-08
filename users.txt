@@ -1,9 +1,11 @@
-Kateryna@gmail.com,Katya,22
-sashaGreen@gmail.com,Sasha,66
-sashaMils@gmail.com,Sanya,32
+Kateryna@gmail.com,Katya,88
+sashaGreen@gmail.com,Sasya,83
+sashaMils@gmail.com,Sanya,37
 Olzberg@gmail.com,Olsberg,250
 MinkoLover@gmail.com,Minko,345
 DevidRobertos@gmail.com,David,33
 KevinDovn@gmail.com,Kevin," 88"
 SantiagoFelicci@gmail.com,Santiago,700
 SalliFernandos@gmail.com,Salli,44
+jimmi@gmail.com,Jimmi,300
+Array,Array,
